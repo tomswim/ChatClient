@@ -1,0 +1,18 @@
+
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(¶œæ8ª«¡¢Ï.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÁ€8ª«¡¢Ï.
+R
+java:S1874"0Remove this use of "readLine"; it is deprecated.(úŸ¯Îøÿÿÿÿ8ª«¡¢Ï.
+H
+java:S14815"+Remove this unused "client" local variable.(¶¨è8ª«¡¢Ï.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²¯ûÿÿÿÿÿ8ª«¡¢Ï.
+W
+java:S18549":Remove this useless assignment to local variable "client".(¶û…÷8ª«¡¢Ï.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(äà«ªúÿÿÿÿ8ª«¡¢Ï.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(‹Ù§8ª«¡¢Ï.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ôš—úşÿÿÿÿ8ª«¡¢Ï.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§§¬°ıÿÿÿÿ8ª«¡¢Ï.
+Z
+java:S11974"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ª«¡¢Ï.
